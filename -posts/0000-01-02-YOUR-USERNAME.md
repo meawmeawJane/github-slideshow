@@ -1,6 +1,7 @@
 ---
-layout: slide
-title: “Welcome to our second slide!”
+layout: box
+title: “Welcome to my pages!”
 ---
-Your test
-Use the left arrow to go back!
+This test for you
+Use the right arrow to go the next pages!
+
